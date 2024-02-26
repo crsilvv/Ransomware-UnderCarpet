@@ -10,3 +10,5 @@ This is my first project, so I welcome any kind of criticism that can help me im
 Now, if you click on the "mask," it will open the second screen, which is this one:**
 
 ![Screen 2](https://github.com/dksilvv/Ransomware-UnderCarpet/assets/161028555/f1ad1009-8488-4b49-ad10-1b4b458f245c)
+
+****The code is completely open for you to be free to modify, and if you want to enhance it, feel free to do so. If you have any tips that can make it more effective, I am willing to listen as well. I am a beginner hacker programmer, but I am open to criticism to evolve mentally as a future hacker.****
