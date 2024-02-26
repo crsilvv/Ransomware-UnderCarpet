@@ -81,7 +81,6 @@ if __name__ == "__main__":
     gui_thread = threading.Thread(target=run_gui)
     gui_thread.start()
 
-    # Este loop evita que o programa principal termine enquanto as threads estão em execução
     while True:
         try:
             time.sleep(1)
