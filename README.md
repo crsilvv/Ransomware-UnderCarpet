@@ -14,3 +14,6 @@ Now, if you click on the "mask," it will open the second screen, which is this o
 ****The code is completely open for you to be free to modify, and if you want to enhance it, feel free to do so. If you have any tips that can make it more effective, I am willing to listen as well. I am a beginner hacker programmer, but I am open to criticism to evolve mentally as a future hacker.****
 
 ****After you have adjusted all the settings as desired, I recommend opening a terminal and running "pyinstaller --onefile --noconsole UnderCarpet.py" to turn it into a single file.****
+
+# UPSATES:
+SOON.......
