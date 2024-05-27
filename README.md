@@ -15,5 +15,5 @@ Now, if you click on the "mask," it will open the second screen, which is this o
 
 ****After you have adjusted all the settings as desired, I recommend opening a terminal and running "pyinstaller --onefile --noconsole UnderCarpet.py" to turn it into a single file.****
 
-# UPSATES:
+# UPDATES:
 SOON.......
