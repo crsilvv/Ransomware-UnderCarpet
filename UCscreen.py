@@ -6,8 +6,6 @@ import subprocess
 from ttkthemes import *
 from tkinter import *
 from pathlib import *
-import nacl.secret
-from nacl.exceptions import CryptoError
 
 def bitcoin():
     url = ("https://www.binance.com")
@@ -85,6 +83,3 @@ BG2.config(relief=FLAT)
 GORVFscreen.mainloop()
 
 #GORV-F#
-
-
-
