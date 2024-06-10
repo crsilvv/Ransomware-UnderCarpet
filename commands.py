@@ -3,3 +3,4 @@ def prevent_closing():
 
 def on_close():
     pass
+
