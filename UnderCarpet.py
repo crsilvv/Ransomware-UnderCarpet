@@ -6,4 +6,4 @@ from commands import *
 encrypt_directory(directory, key)
 
 # UnderCarpet Screen
-screen(screen)
+#screen(screen)
